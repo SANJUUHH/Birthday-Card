@@ -37,10 +37,9 @@ It displays a birthday card with animated balloons and plays a birthday song —
 
 ---
 
-## 📁 Project Structure
+## ❤️ Author
 
-birthday-card/
-│
-├── index.html
-├── hbansh.mp3
-└── README.md
+Made with love and gratitude 💖  
+Dedicated to my supportive friend, whose encouragement and presence mean a lot 🌟  
+This little project is a small way to say *thank you* 🎁
+
