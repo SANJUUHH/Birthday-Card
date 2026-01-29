@@ -43,3 +43,5 @@ Made with love and gratitude 💖
 Dedicated to my supportive friend, whose encouragement and presence mean a lot 🌟  
 This little project is a small way to say *thank you* 🎁
 
+Feel free to fork, customize, and personalize it for your own special moments 🎂✨
+
