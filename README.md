@@ -19,7 +19,28 @@ It displays a birthday card with animated balloons and plays a birthday song —
 ## 🚀 Live Demo
 
 👉 **Open the website:**  
-`(https://sanjuuhh.github.io/Birthday-Card/)`
+`https://sanjuuhh.github.io/Birthday-Card/`
 
 👉 **With custom name:**  
 `https://sanjuuhh.github.io/Birthday-Card/?name=Sanju`
+
+(Replace `Ansh` with any name you want)
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Flexbox & Animations)
+- JavaScript (DOM manipulation)
+- GitHub Pages (Hosting)
+
+---
+
+## 📁 Project Structure
+
+birthday-card/
+│
+├── index.html
+├── hbansh.mp3
+└── README.md
