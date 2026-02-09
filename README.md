@@ -22,7 +22,7 @@ It displays a birthday card with animated balloons and plays a birthday song —
 `https://sanjuuhh.github.io/Birthday-Card/`
 
 👉 **With custom name:**  
-`https://sanjuuhh.github.io/Birthday-Card/?name=Sanju`
+`https://sanjuuhh.github.io/Birthday-Card/?name=Sanjuuhh`
 
 (Replace `Ansh` with any name you want)
 
